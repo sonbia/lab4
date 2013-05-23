@@ -1,8 +1,0 @@
-wyświetlenie informacji o poleceniach (pomocy): git help
-wyświetlanie zawartości bieżącego katalogu: dir
-utworzenie katalogu o nazwie 'katalog': mkdir katalog
-utworzenia pliku o nazwie 'plik.txt': touch plik.txt
-wyświetlenie zawartości pliku 'plik.txt': type
-przejście do katalogu nadrzędnego: odbywa się przez '..'
-przejście do katalogu 'lab4': cd lab4
-zmiana nazwy pliku 'plik.txt' na 'inny_plik.txt': rename
